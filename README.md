@@ -1,6 +1,10 @@
 ## Raspberry Pi
 I used the raspberry pi starter kit and played around with turning LED lights on and playing 
-sounds by pressing buttons. Also played around with inputs/outputs, such as motion sensors and motors. 
+sounds by pressing buttons. blink_LED.py just blinks an LED light every other second. button_LED.py
+lights up an LED when a button is clicked. Finally, sound_maker.py in the gpio-music-box directory 
+makes four buttons play specific sounds. I learned these from the canakit tutorial pamphlet and raspberry pi 
+project tutorials https://projects.raspberrypi.org/en/projects/gpio-music-box.
+Also played around with inputs/outputs, such as motion sensors and motors. 
 ![](IMG_3746.JPG)
 
 ## What I learned
