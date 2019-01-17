@@ -14,5 +14,4 @@ good taste tester.
 ## What didn't work
 The kit explicitly said that the SD card would have the required software preinstalled. For 
 some reason it hadn't been installed. It took me a while to figure out that the SD card was empty 
-and then go and download what I needed. I also didn't have any resistors on me, so I was limited 
-in what I could build.
+and then go and download what I needed.
