@@ -15,4 +15,5 @@ good taste tester.
 The kit explicitly said that the SD card would have the required software preinstalled. For 
 some reason it hadn't been installed. Because of this, the computer wasn't booting up. 
 It took me a while to figure out that the SD card was empty 
-and that I needed to go and download/import the software onto the SD card.
+and that I needed to go and download/import the software onto the SD card. Also, my breadboard 
+was kind of small, which limited the amount I could do with it. 
