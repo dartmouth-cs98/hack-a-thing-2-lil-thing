@@ -1,7 +1,7 @@
 ## Raspberry Pi
 I used the raspberry pi starter kit and played around with turning lights on and playing 
 sounds by pressing buttons. 
-![](IMG_3746.jpg)
+![](IMG_3746.JPG)
 
 ## What I learned
 This was my first time using Raspberry pi. I hadn't really worked with hardware or circuits 
